@@ -37,9 +37,9 @@
 
 15) == is more lenient where we can turn vars of different types to other types whereas === is fully strict and it has to be the same type and same value
 
-17) Passing in modifyArray([1,2,3], doSomething), we have a const declaration and for loop that reads array.length of 3. It will iteratively push the values from array into new Array with a callback that doubles the value. This means we double the value before pushing it resulting in [2,4,6]
+17 Passing in modifyArray([1,2,3], doSomething), we have a const declaration and for loop that reads array.length of 3. It will iteratively push the values from array into new Array with a callback that doubles the value. This means we double the value before pushing it resulting in [2,4,6]
     
-19) The output in printNums() is 
+19 The output in printNums() is 
     1
     4
     3
