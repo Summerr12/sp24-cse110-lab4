@@ -124,3 +124,13 @@
 //     console.log(4);
 // }
 // printNums();
+
+
+// length1=[];
+// length=length1.length;
+// discount='asd';
+
+// if(typeof discount === 'string'){
+//     console.log("disc");
+//     return false;
+// }

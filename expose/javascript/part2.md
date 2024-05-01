@@ -39,7 +39,7 @@
 
 17. Passing in modifyArray([1,2,3], doSomething), we have a const declaration and for loop that reads array.length of 3. It will iteratively push the values from array into new Array with a callback that doubles the value. This means we double the value before pushing it resulting in [2,4,6]
     
-18. The output in printNums() is 
+19. The output in printNums() is 
     1
     4
     3
